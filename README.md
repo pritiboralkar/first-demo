@@ -1,4 +1,5 @@
 # first-demo
+
 This is my first Repository.
 <br>
-Author - Priti Boralkar
+Author - Priti (boralukd)
